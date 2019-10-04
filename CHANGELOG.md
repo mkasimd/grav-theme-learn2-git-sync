@@ -1,3 +1,27 @@
+# v1.5.6
+## 08/16/2019
+
+1. [](#improved)
+    * Twig 2.0 compatibility
+
+# v1.5.5
+## 06/03/2019
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v1.5.4
+## 05/05/2019
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v1.5.3
+## 05/04/2019
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
 # v1.5.2
 ## 05/01/2019
 
